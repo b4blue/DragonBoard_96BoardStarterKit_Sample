@@ -1,22 +1,23 @@
-# Dragon Board 410c Windows 10 IoT Core with 96 Board Starter Kit sample
-Dragon Board 410c Windows 10 IoT Core with 96 Board Starter Kit sample
+# Dragon Board 410c Windows 10 IoT Core with Seeed Grove Starer Kit sample
+Dragon Board 410c Windows 10 IoT Core with Seeed Grove Starter Kit sample
 
-This repository contains sample UWP application for DragonBoard 410c and sensors with Linker Mezzanine card. Unlike other samples, this application connects many sensors listed below to demonstrate how to utilize multiple sensors. The application uses onboard LEDs and GPS.
+<b>***This is not a working sample yet. It was forked from another depository for another mezzanine card. Work in progress.***</b>
+
+This repository contains sample UWP application for DragonBoard 410c and sensors with Seeed Grove card. Unlike other samples, this application connects many sensors listed below to demonstrate how to utilize multiple sensors. The application uses onboard LEDs and GPS.
 
 ### DragonBoard 410c 
 <img src="https://www.96boards.org/product/ce/dragonboard410c/images/DragonBoard-UpdatedImages-front.png" width="200">
 
 Click [here](https://www.96boards.org/product/dragonboard410c) for more detail.
 
-### Linker Mezzanine card starter kit for 96board
-<img src="http://static.chip1stop.com/img/product/LINS/800px-Arrow3874.JPG" width="200">
+### Seeed Grove card starter kit for 96board
+<img src="https://statics3.seeedstudio.com/images/product/110060157%201.jpg" width="200">
 
 Click [here](http://linksprite.com/wiki/index.php5?title=Linker_Mezzanine_card_starter_kit_for_96board) for more detail.
 
-### DragonBoard 410c Pin and Mezzanine card diagram
+### DragonBoard 410c Pin and Grove card diagram schematics
 <p>
-<img src="https://az835927.vo.msecnd.net/sites/iot/Resources/images/PinMappings/DB_Pinout.png" width="300">
-<img src="http://linksprite.com/wiki/images/c/c7/1-4.jpg" width="500">
+<a href="https://github.com/96boards/96boards-sensors/raw/master/Sensors.pdf">Schematics link(pdf)</a>
 </p>
 
 From the diagram, you can see pin number for each Degital Interface
