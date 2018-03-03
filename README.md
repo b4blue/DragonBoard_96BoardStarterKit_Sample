@@ -1,4 +1,4 @@
-# Dragon Board 410c Windows 10 IoT Core with Seeed Grove Starer Kit sample
+# Dragon Board 410c Windows 10 IoT Core with Seeed Grove Starter Kit sample
 Dragon Board 410c Windows 10 IoT Core with Seeed Grove Starter Kit sample
 
 <b>***This is not a working sample yet. It was forked from another depository for another mezzanine card. Work in progress.***</b>
